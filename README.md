@@ -12,3 +12,4 @@ Learning Minecraft Forge 1.19 Mod Creation, From Turorial: https://www.youtube.c
 
 ## Mod INFO
 - In The mod files there are refences to `mod index` this is just what I use to talk about the Registers and The Mod Itself.
+- !IMPORTANT NOTE!: ALL OF THE FILES THAT ARE USED (`.png`) are supplied from the tutorial and where most likely made by the creator of the tutorial
