@@ -2,5 +2,11 @@
   "item.learningforge.zircon": "Zircon",
   "item.learningforge.raw_zircon": "Raw Zircon",
 
+  "block.learningforge.zircon_block": "Block of Zircon",
+  "block.learningforge.zircon_ore": "Zircon Ore",
+  "block.learningforge.deepslate_zircon_ore": "Deepslate Zircon Ore",
+  "block.learningforge.nether_zircon_ore": "Netherrack Zircon Ore",
+  "block.learningforge.end_zircon_ore": "Endstone Zircon Ore",
+
   "itemGroup.learningforgetab": "Learning Forge Tab"
 }

@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "learningforge:block/end_zircon_ore"
+  }
+}

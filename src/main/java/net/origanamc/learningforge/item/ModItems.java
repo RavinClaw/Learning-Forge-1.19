@@ -9,6 +9,7 @@ import net.origanamc.learningforge.LearningForge;
 
 public class ModItems {
 
+    // Registers the ITEMS to the Mod to allow the creation of items.
     public static final DeferredRegister<Item> ITEMS =
             DeferredRegister.create(ForgeRegistries.ITEMS, LearningForge.MOD_ID);
 
